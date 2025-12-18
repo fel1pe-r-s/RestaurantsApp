@@ -1,6 +1,6 @@
 #RestaurantsApp # restaurants
 
-**Tags**: #CSS #Express #Html #JavaScript #Markdown #Node #React #Tailwind #TypeScript
+**Tags**: #CSS #Database #Express #Html #JavaScript #Markdown #Node #React #Tailwind #TypeScript
 
 ## 🔗 Repository Reference
 **Internal Path**: `01_Projetos/restaurants`
