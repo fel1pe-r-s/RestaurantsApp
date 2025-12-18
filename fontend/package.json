@@ -35,5 +35,17 @@
     "tailwindcss": "^3.4.5",
     "typescript": "^5.2.2",
     "vite": "^5.3.4"
-  }
+  },
+  "description": "**Internal Path**: `01_Projetos/restaurants`",
+  "keywords": [
+    "css",
+    "express",
+    "html",
+    "javascript",
+    "markdown",
+    "node",
+    "react",
+    "tailwind",
+    "typescript"
+  ]
 }

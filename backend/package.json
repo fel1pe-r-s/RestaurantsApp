@@ -5,10 +5,20 @@
   "scripts": {
     "dev": "nodemon"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "express",
+    "html",
+    "javascript",
+    "markdown",
+    "node",
+    "react",
+    "tailwind",
+    "typescript"
+  ],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "**Internal Path**: `01_Projetos/restaurants`",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
